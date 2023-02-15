@@ -1,0 +1,12 @@
+[
+    {ind:0,Status:'tab-pane fade show active', id:'nav-Videos',label:'nav-Videos-tab',
+     content:[
+       {Title:'PDF VIDEO #1',TitleDetails:'author,date',Src:'....',Duration:'...', Category:'....',Insights:'....', Status:'....'}
+      ,{Title:'vd1',TitleDetails:'....',Src:'....',Duration:'...', Category:'....',Insights:'....', Status:'....'}
+      ,{Title:'vd2',TitleDetails:'....',Src:'....',Duration:'...', Category:'....',Insights:'....', Status:'....'}
+      ,{Title:'vd3',TitleDetails:'....',Src:'....',Duration:'...', Category:'....',Insights:'....', Status:'....'}
+    ]}
+    ,{ind:1,Status:'tab-pane fade', id:'nav-Drafts',label:'nav-Drafts-tab', 
+    content:[]}
+    ,{ind:2,Status:'tab-pane fade', id:'nav-Liked',label:'nav-Liked-tab', content:[]}
+]
